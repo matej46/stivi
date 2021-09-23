@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+}
+.welcome {
+    /*background-color: #8ee8b9;*/
+    text-align: center;
+    margin-bottom: 0;
+}
+h1 {
+    padding: 10px;
+    margin-top: 0px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    margin-bottom: 0;
+}
+h3 {
+    font-family: 'Bonheur Royale', cursive;
+    padding-bottom: 10px;
+    margin: 0px;
+
+    font-size: 40px;
+
+}
+.menu {
+text-align: center;
+    /*background-color: lightblue;*/
+    margin: 0;
+}
+li {
+    display: inline-block;
+    font-size: 23px;
+    padding-right: 30px ;
+    margin-top: 0;
+}
+a:hover {
+    color: #3c6659;
+}
+ul {
+    margin-top: 0;
+    /*border: 1.2px dotted black;*/
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.toast {
+    margin-top: 20px;
+    display: block;
+    text-align: left;
+    width: 33%;
+}
+#tost {
+
+    margin-left: 100px;
+    float: left;
+}
+.pizza {
+    margin:
+   display: block;
+   align-content:  left;
+    width: 33%;
+    float: right
+
+}
+.glaven {
+    display: inline;
+}
+h4 {
+    margin: 0;
+    font-size: 20px;
+    text-decoration: underline;
+}
+p {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+#pica {
+    float: right;
+    margin-right: 100px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+#menu {
+    margin-bottom: 30px;
+}
+
+#menu1 {
+    background-color: #ebf5f0;
+}
+.hotdog {
+    margin-left: 0;
+    margin-top: 20px;
+
+    text-align: left;
+    width: 33%;
+}
+#hotdoga {
+    margin-left: 100px;
+    margin-top: 180px;
+    float: left;
+}
+#h2tost {
+    margin-left: 190px;
+    font-family: 'Bebas Neue', cursive;
+}
+#h2pica {
+    margin-left: 1030px;
+    font-family: 'Bebas Neue', cursive;
+}
+.hotdog {
+    display: inline;
+    margin-top: 0;
+}
+#h2hotdog {
+    margin-left: 190px;
+    margin-top: 280px;
+    margin-bottom: 2;
+}
+#hotdoga {
+    margin-top: 0.3px;
+    float: left;
+    padding: 10px;
+    margin-bottom: 0;
+}
+.kraen {
+    margin-top: 50px;
+    background-color: #3c6659;
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+    padding-top: 2px;
+
+}
